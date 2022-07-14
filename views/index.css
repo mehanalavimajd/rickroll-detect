@@ -1,0 +1,49 @@
+body{
+    /* background image just once */
+    background-image: url("./img/rick.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+h2{
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    left: 70%;
+    font-size: xx-large;
+    width:300px;
+    height: 400px;
+}
+label{
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    width:200px;
+    height: 400px;
+}
+input{
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    top:30px;
+    left:-350px;
+}
+button{
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    top:30px;
+    left:-350px;
+    background-color: green;
+    width: 70px;
+    height: 40px;
+    border: 0;
+    border-radius: 5px;
+    color: white;
+}
+#form{
+    position: relative;
+    top: -300px;
+    left:90px;
+}
+#form label{
+    left:-100px
+}
