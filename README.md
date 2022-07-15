@@ -1,4 +1,4 @@
-# Never gonna be rickrolled again
+# Never gonna get rickrolled again
 ## If this repo gets 16 stars, I will deploy it
 This is a simple idea of finding rickroll links.
 
